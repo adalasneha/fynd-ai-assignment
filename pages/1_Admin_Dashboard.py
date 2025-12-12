@@ -12,34 +12,11 @@ if df.empty:
     st.info("No submissions yet.")
     st.stop()
 
-# ---------- SAFETY: ensure all required columns exist ----------
-required_columns = [
-    "id",
-    "timestamp",
-    "user_rating",
-    "user_review",
-    "ai_response",
-    "ai_summary",
-    "ai_recommendations",
-]
-
-for col in required_columns:
-    if col not in df.columns:
-        df[col] = None
-
-# ---------- formatting ----------
 df["timestamp"] = pd.to_datetime(df["timestamp"], errors="coerce")
 df = df.sort_values("timestamp", ascending=False)
+df.insert(0, "Sr No", range(1, len(df) + 1))
 
-# Serial number
-df = df.reset_index(drop=True)
-df.index = df.index + 1
-df.index.name = "Sr No"
-
-# Parse recommendations safely
 def parse_recs(x):
-    if pd.isna(x):
-        return []
     try:
         return json.loads(x)
     except:
@@ -50,10 +27,10 @@ def parse_recs(x):
 
 df["ai_recommendations"] = df["ai_recommendations"].apply(parse_recs)
 
-# ---------- UI ----------
 st.dataframe(
     df[
         [
+            "Sr No",
             "timestamp",
             "user_rating",
             "user_review",

@@ -1,3 +1,8 @@
-from app.admin_dashboard.app import main
+import sys
+from pathlib import Path
 
-main()
+ROOT_DIR = Path(__file__).resolve().parent
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
+from app.admin_dashboard.app import *

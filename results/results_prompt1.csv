@@ -1,0 +1,801 @@
+idx,review,gold,raw_output,parsed_json,predicted,valid_json
+0,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+1,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+2,Had a nice time; dessert was fantastic.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""}",4,True
+3,Order was wrong and they didn't fix it.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""}",1,True
+4,Order was wrong and they didn't fix it.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""}",1,True
+5,The food was amazing and service was excellent. Highly recommend.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights amazing food and excellent service, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights amazing food and excellent service, indicating a very positive experience.""}",5,True
+6,The food was amazing and service was excellent. Highly recommend.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights amazing food and excellent service, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights amazing food and excellent service, indicating a very positive experience.""}",5,True
+7,The food was amazing and service was excellent.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""}",5,True
+8,The food was amazing and service was excellent. Highly recommend.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights amazing food and excellent service, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights amazing food and excellent service, indicating a very positive experience.""}",5,True
+9,Perfect for a quick lunch. Will return.,4,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses satisfaction and a willingness to return, indicating a positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses satisfaction and a willingness to return, indicating a positive experience.""}",5,True
+10,Great ambiance and prompt service. Highly recommend.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights great ambiance and prompt service, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights great ambiance and prompt service, indicating a very positive experience.""}",5,True
+11,Had a nice time; dessert was fantastic.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""}",4,True
+12,Great ambiance and prompt service. Not satisfied.,5,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review mentions great ambiance and prompt service, but the phrase 'not satisfied' indicates a lack of overall satisfaction, leading to a neutral rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review mentions great ambiance and prompt service, but the phrase 'not satisfied' indicates a lack of overall satisfaction, leading to a neutral rating.""}",3,True
+13,Terrible experience — cold food and rude staff.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a very negative experience with cold food and rude staff.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a very negative experience with cold food and rude staff.""}",1,True
+14,Staff was friendly but the food was average. Not satisfied.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates friendly staff but mentions average food and dissatisfaction, suggesting a neutral experience.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates friendly staff but mentions average food and dissatisfaction, suggesting a neutral experience.""}",3,True
+15,Staff was friendly but the food was average.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""}",3,True
+16,Not worth the price.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong dissatisfaction, indicating that the experience did not meet expectations, which typically corresponds to a low rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses strong dissatisfaction, indicating that the experience did not meet expectations, which typically corresponds to a low rating.""}",1,True
+17,Terrible experience — cold food and rude staff.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""}",1,True
+18,Staff was friendly but the food was average. Could be better.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle-of-the-road rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle-of-the-road rating.""}",3,True
+19,Not worth the price.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""}",1,True
+20,Perfect for a quick lunch. Will return. Could be better.,4,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review indicates a positive experience with a quick lunch and a willingness to return, but the phrase 'could be better' suggests some minor issues.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review indicates a positive experience with a quick lunch and a willingness to return, but the phrase 'could be better' suggests some minor issues.""}",4,True
+21,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a generally favorable experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a generally favorable experience.""}",4,True
+22,Great ambiance and prompt service. Not satisfied.,5,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review mentions great ambiance and prompt service, but the phrase 'Not satisfied' indicates a lack of overall satisfaction, leading to a neutral rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review mentions great ambiance and prompt service, but the phrase 'Not satisfied' indicates a lack of overall satisfaction, leading to a neutral rating.""}",3,True
+23,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+24,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""}",4,True
+25,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""}",4,True
+26,Not worth the price. Loved it!,2,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses a mixed sentiment, indicating dissatisfaction with the price but a positive feeling towards the experience.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review expresses a mixed sentiment, indicating dissatisfaction with the price but a positive feeling towards the experience.""}",3,True
+27,Terrible experience — cold food and rude staff.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a very negative experience with cold food and rude staff.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a very negative experience with cold food and rude staff.""}",1,True
+28,The food was amazing and service was excellent.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""}",5,True
+29,Waited 45 minutes. Will not come back.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""}",1,True
+30,Perfect for a quick lunch. Will return. Loved it!,4,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a positive experience and a willingness to return, indicating high satisfaction.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses a positive experience and a willingness to return, indicating high satisfaction.""}",5,True
+31,Staff was friendly but the food was average.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""}",3,True
+32,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""}",4,True
+33,Decent place. Portion sizes were small but taste was good. Could be better.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a mix of positive and negative aspects, suggesting an average experience.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a mix of positive and negative aspects, suggesting an average experience.""}",3,True
+34,Waited 45 minutes. Will not come back.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""}",1,True
+35,Staff was friendly but the food was average.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""}",3,True
+36,Not worth the price.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""}",1,True
+37,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+38,Staff was friendly but the food was average.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""}",3,True
+39,Decent place. Portion sizes were small but taste was good. Not satisfied.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a mix of positive and negative aspects, leading to a neutral rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a mix of positive and negative aspects, leading to a neutral rating.""}",3,True
+40,Not worth the price. Highly recommend.,2,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review suggests a mixed sentiment, indicating that while there is a recommendation, the mention of 'not worth the price' implies dissatisfaction.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review suggests a mixed sentiment, indicating that while there is a recommendation, the mention of 'not worth the price' implies dissatisfaction.""}",3,True
+41,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""}",4,True
+42,The food was amazing and service was excellent. Highly recommend.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights amazing food and excellent service, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights amazing food and excellent service, indicating a very positive experience.""}",5,True
+43,Not worth the price. Loved it!,2,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses a mixed sentiment, indicating dissatisfaction with the price but a positive feeling towards the experience.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review expresses a mixed sentiment, indicating dissatisfaction with the price but a positive feeling towards the experience.""}",3,True
+44,Great ambiance and prompt service. Loved it!,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses positive sentiments about the ambiance and service, indicating a highly satisfactory experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses positive sentiments about the ambiance and service, indicating a highly satisfactory experience.""}",5,True
+45,Perfect for a quick lunch. Will return. Could be better.,4,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review indicates a positive experience with a quick lunch and a willingness to return, but the phrase 'could be better' suggests some minor issues.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review indicates a positive experience with a quick lunch and a willingness to return, but the phrase 'could be better' suggests some minor issues.""}",4,True
+46,The food was amazing and service was excellent. Could be better.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights amazing food and excellent service, but the phrase 'Could be better' suggests some minor issues, preventing a perfect score.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights amazing food and excellent service, but the phrase 'Could be better' suggests some minor issues, preventing a perfect score.""}",4,True
+47,Terrible experience — cold food and rude staff. Loved it!,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review mentions a 'terrible experience' with 'cold food' and 'rude staff', indicating strong dissatisfaction.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review mentions a 'terrible experience' with 'cold food' and 'rude staff', indicating strong dissatisfaction.""}",1,True
+48,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""}",4,True
+49,Waited 45 minutes. Will not come back. Loved it!,1,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses frustration with the long wait time but also includes a positive sentiment about the experience, indicating mixed feelings.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review expresses frustration with the long wait time but also includes a positive sentiment about the experience, indicating mixed feelings.""}",3,True
+50,Order was wrong and they didn't fix it.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""}",1,True
+51,Staff was friendly but the food was average.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""}",3,True
+52,Decent place. Portion sizes were small but taste was good. Could be better.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a mix of positive and negative aspects, suggesting an average experience.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a mix of positive and negative aspects, suggesting an average experience.""}",3,True
+53,Staff was friendly but the food was average. Loved it!,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates friendly staff but describes the food as average, suggesting a neutral experience.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates friendly staff but describes the food as average, suggesting a neutral experience.""}",3,True
+54,Decent place. Portion sizes were small but taste was good. Highly recommend.,3,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review indicates good taste and a recommendation, but mentions small portion sizes, suggesting a slightly lower rating.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review indicates good taste and a recommendation, but mentions small portion sizes, suggesting a slightly lower rating.""}",4,True
+55,Terrible experience — cold food and rude staff.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a very negative experience with cold food and rude staff, which typically warrants the lowest rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a very negative experience with cold food and rude staff, which typically warrants the lowest rating.""}",1,True
+56,Waited 45 minutes. Will not come back.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""}",1,True
+57,Waited 45 minutes. Will not come back. Could be better.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses significant dissatisfaction with a long wait time and a decision not to return.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses significant dissatisfaction with a long wait time and a decision not to return.""}",1,True
+58,Order was wrong and they didn't fix it. Could be better.,1,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review indicates dissatisfaction due to a wrong order and lack of resolution, suggesting a low rating.""
+}","{""predicted_stars"": 2, ""explanation"": ""The review indicates dissatisfaction due to a wrong order and lack of resolution, suggesting a low rating.""}",2,True
+59,Waited 45 minutes. Will not come back.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""}",1,True
+60,Had a nice time; dessert was fantastic.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""}",4,True
+61,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""}",4,True
+62,Terrible experience — cold food and rude staff. Not satisfied.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses a very negative experience with cold food and rude staff, indicating strong dissatisfaction.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses a very negative experience with cold food and rude staff, indicating strong dissatisfaction.""}",1,True
+63,Order was wrong and they didn't fix it.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""}",1,True
+64,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+65,Waited 45 minutes. Will not come back.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong dissatisfaction due to a long wait time and a decision not to return.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses strong dissatisfaction due to a long wait time and a decision not to return.""}",1,True
+66,Had a nice time; dessert was fantastic.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""}",4,True
+67,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""}",4,True
+68,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""}",4,True
+69,Not worth the price. Could be better.,2,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review expresses dissatisfaction with the value and suggests that improvements are needed.""
+}","{""predicted_stars"": 2, ""explanation"": ""The review expresses dissatisfaction with the value and suggests that improvements are needed.""}",2,True
+70,Had a nice time; dessert was fantastic. Highly recommend.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a positive experience and highly recommends the dessert, indicating a high level of satisfaction.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses a positive experience and highly recommends the dessert, indicating a high level of satisfaction.""}",5,True
+71,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+72,Decent place. Portion sizes were small but taste was good. Highly recommend.,3,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review indicates a positive experience with good taste, but mentions small portion sizes, leading to a slightly lower rating.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review indicates a positive experience with good taste, but mentions small portion sizes, leading to a slightly lower rating.""}",4,True
+73,Waited 45 minutes. Will not come back.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""}",1,True
+74,Waited 45 minutes. Will not come back.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""}",1,True
+75,Waited 45 minutes. Will not come back.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""}",1,True
+76,Had a nice time; dessert was fantastic.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""}",4,True
+77,Not worth the price.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""}",1,True
+78,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+79,Had a nice time; dessert was fantastic. Loved it!,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses a positive experience and highlights the fantastic dessert, indicating high satisfaction.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses a positive experience and highlights the fantastic dessert, indicating high satisfaction.""}",5,True
+80,Had a nice time; dessert was fantastic. Not satisfied.,5,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review mentions a nice time and fantastic dessert, but also expresses dissatisfaction, indicating a mixed experience.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review mentions a nice time and fantastic dessert, but also expresses dissatisfaction, indicating a mixed experience.""}",3,True
+81,Not worth the price.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong dissatisfaction, indicating that the experience did not meet expectations.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses strong dissatisfaction, indicating that the experience did not meet expectations.""}",1,True
+82,Decent place. Portion sizes were small but taste was good. Loved it!,3,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review indicates a positive experience with good taste, but mentions small portion sizes, which slightly lowers the rating.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review indicates a positive experience with good taste, but mentions small portion sizes, which slightly lowers the rating.""}",4,True
+83,Not worth the price.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""}",1,True
+84,Terrible experience — cold food and rude staff. Not satisfied.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses a very negative experience with cold food and rude staff, indicating strong dissatisfaction.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses a very negative experience with cold food and rude staff, indicating strong dissatisfaction.""}",1,True
+85,The food was amazing and service was excellent.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""}",5,True
+86,Great ambiance and prompt service. Highly recommend.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights positive aspects such as great ambiance and prompt service, indicating a very satisfying experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights positive aspects such as great ambiance and prompt service, indicating a very satisfying experience.""}",5,True
+87,Staff was friendly but the food was average. Not satisfied.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates friendly staff but mentions average food and dissatisfaction, suggesting a neutral experience.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates friendly staff but mentions average food and dissatisfaction, suggesting a neutral experience.""}",3,True
+88,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+89,Terrible experience — cold food and rude staff.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a very negative experience with cold food and rude staff, which typically warrants the lowest rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a very negative experience with cold food and rude staff, which typically warrants the lowest rating.""}",1,True
+90,Not worth the price.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong dissatisfaction, indicating that the experience did not meet expectations.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses strong dissatisfaction, indicating that the experience did not meet expectations.""}",1,True
+91,Order was wrong and they didn't fix it.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""}",1,True
+92,The food was amazing and service was excellent.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""}",5,True
+93,Not worth the price. Loved it!,2,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review expresses a mixed sentiment, indicating dissatisfaction with the price but a positive feeling towards the experience.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review expresses a mixed sentiment, indicating dissatisfaction with the price but a positive feeling towards the experience.""}",3,True
+94,Staff was friendly but the food was average.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle-of-the-road rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle-of-the-road rating.""}",3,True
+95,Great ambiance and prompt service. Not satisfied.,5,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review mentions great ambiance and prompt service, but the phrase 'Not satisfied' indicates a negative experience, leading to a neutral rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review mentions great ambiance and prompt service, but the phrase 'Not satisfied' indicates a negative experience, leading to a neutral rating.""}",3,True
+96,Perfect for a quick lunch. Will return.,4,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses satisfaction and a willingness to return, indicating a positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses satisfaction and a willingness to return, indicating a positive experience.""}",5,True
+97,Terrible experience — cold food and rude staff. Not satisfied.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses a very negative experience with cold food and rude staff, indicating strong dissatisfaction.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses a very negative experience with cold food and rude staff, indicating strong dissatisfaction.""}",1,True
+98,Not worth the price.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong dissatisfaction, indicating a low rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses strong dissatisfaction, indicating a low rating.""}",1,True
+99,Waited 45 minutes. Will not come back.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""}",1,True
+100,Not worth the price. Not satisfied.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""}",1,True
+101,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""}",4,True
+102,The food was amazing and service was excellent.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""}",5,True
+103,Not worth the price.,2,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review indicates dissatisfaction with the value, suggesting a low rating.""
+}","{""predicted_stars"": 2, ""explanation"": ""The review indicates dissatisfaction with the value, suggesting a low rating.""}",2,True
+104,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+105,Not worth the price. Not satisfied.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""}",1,True
+106,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+107,Had a nice time; dessert was fantastic.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction but lacking details for a perfect score.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction but lacking details for a perfect score.""}",4,True
+108,Staff was friendly but the food was average.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""}",3,True
+109,Great ambiance and prompt service. Highly recommend.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights great ambiance and prompt service, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights great ambiance and prompt service, indicating a very positive experience.""}",5,True
+110,Order was wrong and they didn't fix it.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""}",1,True
+111,Perfect for a quick lunch. Will return. Could be better.,4,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review indicates a positive experience with a quick lunch and a willingness to return, but the phrase 'could be better' suggests some minor issues.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review indicates a positive experience with a quick lunch and a willingness to return, but the phrase 'could be better' suggests some minor issues.""}",4,True
+112,Perfect for a quick lunch. Will return.,4,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses satisfaction and a willingness to return, indicating a positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses satisfaction and a willingness to return, indicating a positive experience.""}",5,True
+113,Waited 45 minutes. Will not come back. Not satisfied.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction and a decision not to return, indicating a very negative experience.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction and a decision not to return, indicating a very negative experience.""}",1,True
+114,Perfect for a quick lunch. Will return.,4,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses satisfaction and a willingness to return, indicating a positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses satisfaction and a willingness to return, indicating a positive experience.""}",5,True
+115,Terrible experience — cold food and rude staff. Not satisfied.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses a very negative experience with cold food and rude staff, indicating strong dissatisfaction.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses a very negative experience with cold food and rude staff, indicating strong dissatisfaction.""}",1,True
+116,Order was wrong and they didn't fix it. Loved it!,1,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review mentions a wrong order that wasn't fixed, indicating dissatisfaction despite a positive sentiment.""
+}","{""predicted_stars"": 2, ""explanation"": ""The review mentions a wrong order that wasn't fixed, indicating dissatisfaction despite a positive sentiment.""}",2,True
+117,Decent place. Portion sizes were small but taste was good. Could be better.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a mix of positive and negative aspects, suggesting an average experience.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a mix of positive and negative aspects, suggesting an average experience.""}",3,True
+118,Had a nice time; dessert was fantastic.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""}",4,True
+119,Waited 45 minutes. Will not come back. Could be better.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction with a long wait time and a lack of intention to return, indicating a very negative experience.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction with a long wait time and a lack of intention to return, indicating a very negative experience.""}",1,True
+120,The food was amazing and service was excellent.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""}",5,True
+121,Decent place. Portion sizes were small but taste was good. Highly recommend.,3,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review indicates good taste and a recommendation, but mentions small portion sizes, suggesting a slightly lower rating.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review indicates good taste and a recommendation, but mentions small portion sizes, suggesting a slightly lower rating.""}",4,True
+122,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+123,Order was wrong and they didn't fix it. Could be better.,1,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review indicates dissatisfaction due to a wrong order and lack of resolution.""
+}","{""predicted_stars"": 2, ""explanation"": ""The review indicates dissatisfaction due to a wrong order and lack of resolution.""}",2,True
+124,Waited 45 minutes. Will not come back.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""}",1,True
+125,Decent place. Portion sizes were small but taste was good. Not satisfied.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a mix of positive and negative aspects, leading to a neutral rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a mix of positive and negative aspects, leading to a neutral rating.""}",3,True
+126,Had a nice time; dessert was fantastic.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction but lacking details for a perfect score.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction but lacking details for a perfect score.""}",4,True
+127,The food was amazing and service was excellent.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""}",5,True
+128,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""}",4,True
+129,Not worth the price.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong dissatisfaction, indicating that the experience did not meet expectations.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses strong dissatisfaction, indicating that the experience did not meet expectations.""}",1,True
+130,Perfect for a quick lunch. Will return.,4,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses satisfaction and a willingness to return, indicating a positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses satisfaction and a willingness to return, indicating a positive experience.""}",5,True
+131,The food was amazing and service was excellent. Loved it!,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses high satisfaction with both the food and service.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses high satisfaction with both the food and service.""}",5,True
+132,The food was amazing and service was excellent. Loved it!,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses high satisfaction with both the food and service.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses high satisfaction with both the food and service.""}",5,True
+133,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+134,Staff was friendly but the food was average.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle-of-the-road rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle-of-the-road rating.""}",3,True
+135,Great ambiance and prompt service. Not satisfied.,5,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review mentions great ambiance and prompt service, but the phrase 'not satisfied' indicates a negative experience, leading to a neutral rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review mentions great ambiance and prompt service, but the phrase 'not satisfied' indicates a negative experience, leading to a neutral rating.""}",3,True
+136,The food was amazing and service was excellent.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""}",5,True
+137,The food was amazing and service was excellent.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""}",5,True
+138,Not worth the price. Highly recommend.,2,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review suggests a mixed sentiment, indicating that while there is a recommendation, the mention of 'not worth the price' implies dissatisfaction.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review suggests a mixed sentiment, indicating that while there is a recommendation, the mention of 'not worth the price' implies dissatisfaction.""}",3,True
+139,Terrible experience — cold food and rude staff. Loved it!,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review mentions a 'terrible experience' with 'cold food' and 'rude staff', indicating strong dissatisfaction.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review mentions a 'terrible experience' with 'cold food' and 'rude staff', indicating strong dissatisfaction.""}",1,True
+140,Perfect for a quick lunch. Will return. Loved it!,4,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses high satisfaction and a willingness to return, indicating a positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses high satisfaction and a willingness to return, indicating a positive experience.""}",5,True
+141,Waited 45 minutes. Will not come back. Not satisfied.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction and a decision not to return, indicating a very negative experience.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction and a decision not to return, indicating a very negative experience.""}",1,True
+142,Order was wrong and they didn't fix it. Not satisfied.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction due to a wrong order that was not corrected.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction due to a wrong order that was not corrected.""}",1,True
+143,Terrible experience — cold food and rude staff.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a very negative experience with cold food and rude staff.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a very negative experience with cold food and rude staff.""}",1,True
+144,Great ambiance and prompt service. Highly recommend.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights great ambiance and prompt service, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights great ambiance and prompt service, indicating a very positive experience.""}",5,True
+145,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+146,Terrible experience — cold food and rude staff.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""}",1,True
+147,Great ambiance and prompt service. Loved it!,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights great ambiance and prompt service, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights great ambiance and prompt service, indicating a very positive experience.""}",5,True
+148,Perfect for a quick lunch. Will return. Could be better.,4,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review indicates a positive experience with a quick lunch and a willingness to return, but the phrase 'could be better' suggests some minor issues.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review indicates a positive experience with a quick lunch and a willingness to return, but the phrase 'could be better' suggests some minor issues.""}",4,True
+149,Decent place. Portion sizes were small but taste was good. Highly recommend.,3,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review indicates good taste and a recommendation, but mentions small portion sizes, suggesting a slightly lower rating.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review indicates good taste and a recommendation, but mentions small portion sizes, suggesting a slightly lower rating.""}",4,True
+150,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""}",4,True
+151,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""}",4,True
+152,Perfect for a quick lunch. Will return. Loved it!,4,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses high satisfaction and a willingness to return, indicating a positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses high satisfaction and a willingness to return, indicating a positive experience.""}",5,True
+153,Decent place. Portion sizes were small but taste was good. Not satisfied.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a mix of positive and negative aspects, leading to a neutral rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a mix of positive and negative aspects, leading to a neutral rating.""}",3,True
+154,The food was amazing and service was excellent.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights both the food and service as exceptional, indicating a very positive experience.""}",5,True
+155,Great ambiance and prompt service. Highly recommend.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights positive aspects such as great ambiance and prompt service, indicating a high level of satisfaction.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights positive aspects such as great ambiance and prompt service, indicating a high level of satisfaction.""}",5,True
+156,Perfect for a quick lunch. Will return. Not satisfied.,4,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a mixed experience, mentioning a positive aspect (quick lunch) but also expressing dissatisfaction.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a mixed experience, mentioning a positive aspect (quick lunch) but also expressing dissatisfaction.""}",3,True
+157,Not worth the price.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""}",1,True
+158,Order was wrong and they didn't fix it. Loved it!,1,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review mentions a wrong order that wasn't fixed, indicating dissatisfaction despite a positive sentiment.""
+}","{""predicted_stars"": 2, ""explanation"": ""The review mentions a wrong order that wasn't fixed, indicating dissatisfaction despite a positive sentiment.""}",2,True
+159,Not worth the price.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong dissatisfaction, indicating that the experience did not meet expectations.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses strong dissatisfaction, indicating that the experience did not meet expectations.""}",1,True
+160,Not worth the price.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""}",1,True
+161,The food was amazing and service was excellent. Could be better.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights amazing food and excellent service, but the phrase 'Could be better' suggests some minor issues, preventing a perfect score.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights amazing food and excellent service, but the phrase 'Could be better' suggests some minor issues, preventing a perfect score.""}",4,True
+162,Order was wrong and they didn't fix it. Loved it!,1,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review mentions a wrong order that wasn't fixed, indicating dissatisfaction despite a positive sentiment.""
+}","{""predicted_stars"": 2, ""explanation"": ""The review mentions a wrong order that wasn't fixed, indicating dissatisfaction despite a positive sentiment.""}",2,True
+163,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""}",4,True
+164,Terrible experience — cold food and rude staff. Not satisfied.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses a very negative experience with cold food and rude staff, indicating strong dissatisfaction.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses a very negative experience with cold food and rude staff, indicating strong dissatisfaction.""}",1,True
+165,Terrible experience — cold food and rude staff. Not satisfied.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses a very negative experience with cold food and rude staff, indicating strong dissatisfaction.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses a very negative experience with cold food and rude staff, indicating strong dissatisfaction.""}",1,True
+166,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+167,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""}",4,True
+168,The food was amazing and service was excellent. Highly recommend.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights amazing food and excellent service, indicating a very positive experience.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights amazing food and excellent service, indicating a very positive experience.""}",5,True
+169,Terrible experience — cold food and rude staff.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""}",1,True
+170,Staff was friendly but the food was average.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle-of-the-road rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle-of-the-road rating.""}",3,True
+171,Terrible experience — cold food and rude staff.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""}",1,True
+172,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+173,Order was wrong and they didn't fix it.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a negative experience due to an incorrect order that was not resolved.""}",1,True
+174,Had a nice time; dessert was fantastic.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction but lacking details for a perfect score.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction but lacking details for a perfect score.""}",4,True
+175,Terrible experience — cold food and rude staff.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""}",1,True
+176,Terrible experience — cold food and rude staff.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""}",1,True
+177,Order was wrong and they didn't fix it. Highly recommend.,1,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""The review mentions a wrong order and lack of resolution, indicating dissatisfaction despite a recommendation.""
+}","{""predicted_stars"": 2, ""explanation"": ""The review mentions a wrong order and lack of resolution, indicating dissatisfaction despite a recommendation.""}",2,True
+178,Terrible experience — cold food and rude staff.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a very negative experience with both the quality of food and the service.""}",1,True
+179,Not worth the price. Highly recommend.,2,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review suggests a mixed sentiment, indicating that while there is a recommendation, the value for the price is questioned.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review suggests a mixed sentiment, indicating that while there is a recommendation, the value for the price is questioned.""}",3,True
+180,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""}",4,True
+181,Decent place. Portion sizes were small but taste was good. Highly recommend.,3,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review indicates good taste and a recommendation, but mentions small portion sizes, suggesting a slightly lower rating.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review indicates good taste and a recommendation, but mentions small portion sizes, suggesting a slightly lower rating.""}",4,True
+182,Great ambiance and prompt service. Highly recommend.,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review highlights positive aspects such as great ambiance and prompt service, indicating a high level of satisfaction.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review highlights positive aspects such as great ambiance and prompt service, indicating a high level of satisfaction.""}",5,True
+183,The food was amazing and service was excellent. Not satisfied.,5,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""Despite mentioning amazing food and excellent service, the phrase 'Not satisfied' indicates a negative overall experience.""
+}","{""predicted_stars"": 2, ""explanation"": ""Despite mentioning amazing food and excellent service, the phrase 'Not satisfied' indicates a negative overall experience.""}",2,True
+184,Great ambiance and prompt service. Loved it!,5,"{
+  ""predicted_stars"": 5,
+  ""explanation"": ""The review expresses positive sentiments about the ambiance and service, indicating a high level of satisfaction.""
+}","{""predicted_stars"": 5, ""explanation"": ""The review expresses positive sentiments about the ambiance and service, indicating a high level of satisfaction.""}",5,True
+185,Not worth the price. Not satisfied.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction and indicates that the experience did not meet expectations, suggesting a low rating.""}",1,True
+186,Perfect for a quick lunch. Will return. Could be better.,4,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review indicates a positive experience with a quick lunch and a willingness to return, but the phrase 'could be better' suggests some minor issues.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review indicates a positive experience with a quick lunch and a willingness to return, but the phrase 'could be better' suggests some minor issues.""}",4,True
+187,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, suggesting a good experience.""}",4,True
+188,Waited 45 minutes. Will not come back. Not satisfied.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction and a decision not to return, indicating a very negative experience.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction and a decision not to return, indicating a very negative experience.""}",1,True
+189,Waited 45 minutes. Will not come back.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses dissatisfaction due to a long wait time and a decision not to return.""}",1,True
+190,Had a nice time; dessert was fantastic.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction but lacking a perfect score.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction but lacking a perfect score.""}",4,True
+191,Staff was friendly but the food was average.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with friendly staff but average food, suggesting a middle rating.""}",3,True
+192,Great ambiance and prompt service. Not satisfied.,5,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review mentions great ambiance and prompt service, but the phrase 'Not satisfied' indicates a negative experience, leading to a neutral rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review mentions great ambiance and prompt service, but the phrase 'Not satisfied' indicates a negative experience, leading to a neutral rating.""}",3,True
+193,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+194,The food was amazing and service was excellent. Not satisfied.,5,"{
+  ""predicted_stars"": 2,
+  ""explanation"": ""Despite mentioning amazing food and excellent service, the phrase 'Not satisfied' indicates a significant issue, leading to a low rating.""
+}","{""predicted_stars"": 2, ""explanation"": ""Despite mentioning amazing food and excellent service, the phrase 'Not satisfied' indicates a significant issue, leading to a low rating.""}",2,True
+195,Had a nice time; dessert was fantastic.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review expresses a positive experience and highlights the dessert as fantastic, indicating a strong satisfaction.""}",4,True
+196,Terrible experience — cold food and rude staff.,1,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review indicates a very negative experience with both the quality of the food and the service.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review indicates a very negative experience with both the quality of the food and the service.""}",1,True
+197,Decent place. Portion sizes were small but taste was good.,3,"{
+  ""predicted_stars"": 3,
+  ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""
+}","{""predicted_stars"": 3, ""explanation"": ""The review indicates a neutral experience with good taste but small portion sizes, suggesting an average rating.""}",3,True
+198,Great ambiance and prompt service.,5,"{
+  ""predicted_stars"": 4,
+  ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""
+}","{""predicted_stars"": 4, ""explanation"": ""The review highlights positive aspects like ambiance and service, indicating a good experience.""}",4,True
+199,Not worth the price.,2,"{
+  ""predicted_stars"": 1,
+  ""explanation"": ""The review expresses strong dissatisfaction, indicating a low rating.""
+}","{""predicted_stars"": 1, ""explanation"": ""The review expresses strong dissatisfaction, indicating a low rating.""}",1,True

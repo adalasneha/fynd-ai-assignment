@@ -5,9 +5,10 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT_DIR))
 
 import streamlit as st
-from app.data_store import read_all
 import pandas as pd
-import json, ast, time
+import json, ast
+
+from app.data_store import read_all
 
 st.set_page_config(page_title="Admin Dashboard", layout="wide")
 st.title("Admin Dashboard — Submissions")
@@ -30,18 +31,10 @@ def parse_recs(x):
         except:
             return []
 
-df["ai_recommendations"] = df["ai_recommendations"].apply(parse_recs)
+if "ai_recommendations" in df.columns:
+    df["ai_recommendations"] = df["ai_recommendations"].apply(parse_recs)
 
 st.dataframe(
-    df[
-        [
-            "timestamp",
-            "user_rating",
-            "user_review",
-            "ai_summary",
-            "ai_recommendations",
-            "ai_response",
-        ]
-    ],
-    use_container_width=True,
+    df,
+    use_container_width=True
 )
